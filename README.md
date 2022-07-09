@@ -14,7 +14,7 @@ FinalShell下载：https://kjfx.lanzoui.com/iqm6Uosbzha<br>
 
 **5、V2Ray一键安装代码**<br>
 
-    bash <(curl -sL https://cdn.jsdelivr.net/gh/Misaka-blog/Xray-script@master/xray.sh)
+    bash <(curl -sL https://raw.githubusercontent.com/eujc/v2ray/main/xray.sh)
 
 **6、安装协议选择：4**<br>
 4.安装Xray-VMESS+WS+TLS(推荐)(可过支持WebSocket的CDN)
