@@ -1,5 +1,5 @@
-# 2022 V2ray搭建教程，vps搭建v2ray方法，vpn搭建v2ray 一键搭建代码
-V2ray搭建视频教程：▶ https://youtu.be/m_zCQIHNMsU
+# 2023 V2ray搭建教程，vps搭建v2ray方法，vpn搭建v2ray 一键搭建代码
+V2ray搭建视频教程：▶ https://youtu.be/BNGCNJqGQRw
 ### 步骤：<br>
 **1、Vultr注册账号**：https://www.vultr.com/?ref=8753714<br>
 **2、购买服务器**<br>
@@ -14,7 +14,7 @@ FinalShell下载：https://kjfx.lanzoui.com/iqm6Uosbzha<br>
 
 **5、V2Ray一键安装代码**<br>
 
-    bash <(curl -sL https://raw.githubusercontent.com/eujc/v2ray/main/xray.sh)
+    bash <(curl -s -L https://git.io/v2ray-setup.sh)
 
 **6、安装协议选择：4**<br>
 4.安装Xray-VMESS+WS+TLS(推荐)(可过支持WebSocket的CDN)
