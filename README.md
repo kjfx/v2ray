@@ -3,7 +3,7 @@ V2ray搭建视频教程：▶ https://youtu.be/BNGCNJqGQRw
 ### 步骤：<br>
 **1、Vultr注册账号**：https://www.vultr.com/?ref=8753714<br>
 **2、购买服务器**<br>
-<img src="https://raw.githubusercontent.com/kjfx/v2ray/main/3%E8%B4%AD%E4%B9%B0%E6%9C%8D%E5%8A%A1%E5%99%A8.png" />
+<img src="https://raw.githubusercontent.com/kjfx/v2ray/main/VPS%E9%80%89%E6%8B%A9%E8%AF%B4%E6%98%8E.png" />
 
 **3、域名解析到服务器**<br>
 域名注册和解析教程：https://youtu.be/SjSmvQLEOEE<br>
