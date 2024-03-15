@@ -1,4 +1,4 @@
-# V2ray搭建教程，vps搭建v2ray方法，vpn搭建v2ray 一键搭建代码
+# V2ray搭建教程，vps搭建v2ray方法，vpn搭建v2ray 一键搭建代码 2024
 V2ray搭建视频教程：▶ https://youtu.be/jeXPVqz4OEs
 ### 步骤：<br>
 **1、Vultr注册账号**：https://www.vultr.com/?ref=8753714<br>
