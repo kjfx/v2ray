@@ -9,7 +9,7 @@ V2ray搭建视频教程：▶ https://youtu.be/BNGCNJqGQRw
 
 **3、打开搭建工具 FinalShell**<br>
 FinalShell下载：https://kjfx.lanzoui.com/iqm6Uosbzha<br>
-备用下载（含MAC版）：https://kjfx.lanzoui.com/iQ1s9yfzf7g<br>
+备用下载（含MAC版）：<a href="http://www.hostbuf.com/t/988.html" target="_blank">点击下载>></a><br>
 
 **4、V2Ray一键安装代码**<br>
 
