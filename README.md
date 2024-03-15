@@ -15,5 +15,11 @@ FinalShell下载：https://kjfx.lanzoui.com/iqm6Uosbzha<br>
 
     bash <(curl -s -L https://git.io/v2ray-setup.sh)
 
+<br>
+
+    #放行端口
+    iptables -I INPUT -p tcp --dport 80 -j ACCEPT
+    iptables -I INPUT -p tcp --dport 8080 -j ACCEPT
+
 **5、科学上网软件下载**<br>
 软件下载：https://github.com/Kejifaxian/welcome
