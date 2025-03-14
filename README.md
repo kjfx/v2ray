@@ -3,12 +3,10 @@ V2ray搭建视频教程：▶ https://youtu.be/jeXPVqz4OEs
 ### 步骤：<br>
 **1、Vultr注册账号**：https://www.vultr.com/?ref=8753714<br>
 
-**2、购买服务器**<br>
-服务器选择说明：[点击查看>>](https://raw.githubusercontent.com/kjfx/v2ray1/refs/heads/main/vps%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%80%89%E6%8B%A9%E8%AF%B4%E6%98%8E.png)
-
+**2、选择服务器**<br>
 
 **3、打开搭建工具 FinalShell**<br>
-FinalShell下载：https://kjfx.lanzoui.com/iqm6Uosbzha<br>
+FinalShell：[点击下载>>](https://kjfx.lanzoui.com/iqm6Uosbzha)<br>
 备用下载（含MAC版）：<a href="http://www.hostbuf.com/t/988.html" target="_blank">点击下载>></a><br>
 
 **4、V2Ray一键安装代码**<br>
