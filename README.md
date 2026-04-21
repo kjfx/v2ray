@@ -34,7 +34,7 @@ BBR加速
 注册账号：https://www.vultr.com/?ref=9827682<br>
 充值入口：https://console.vultr.com/billing/<br>
 个人信息：https://console.vultr.com/user/profile/<br>
-购买服务器入口：https://console.vultr.com/deploy-beta/<br>
+购买服务器入口：https://console.vultr.com/deploy-beta/<br><br>
 
 <img src="https://raw.githubusercontent.com/kjfx/v2ray1/refs/heads/main/vps%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%80%89%E6%8B%A9%E8%AF%B4%E6%98%8E.png" />
 
