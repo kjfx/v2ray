@@ -27,3 +27,14 @@ BBR加速
 
 **5、科学上网软件下载**<br>
 软件下载：https://github.com/Kejifaxian/welcome
+
+<hr/>
+
+## Vultr网站界面更新了，以下是快速入口和选择说明
+注册账号：https://www.vultr.com/?ref=9827682
+充值入口：https://console.vultr.com/billing/
+个人信息：https://console.vultr.com/user/profile/
+购买服务器入口：https://console.vultr.com/deploy-beta/
+
+<img src"https://raw.githubusercontent.com/kjfx/v2ray1/refs/heads/main/vps%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%80%89%E6%8B%A9%E8%AF%B4%E6%98%8E.png" />
+
